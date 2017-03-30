@@ -12,7 +12,12 @@
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <DYNPROS/>
-   <TPOOL/>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <LENGTH>21</LENGTH>
+    </item>
+   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
